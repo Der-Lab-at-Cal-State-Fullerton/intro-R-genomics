@@ -4,7 +4,7 @@ This lesson is primarily developed for the CSUF EAGER program and is very much a
 
 [View some setup instructions](00-setup.md)
 
-The lesson has five parts:
+The lesson has five parts:  
 [Part 1 - background](01-background.md)  
 [Part 2 - quality control](02-quality-control.md)   
 [Part 3 - trimming](03-trimming.md)  
