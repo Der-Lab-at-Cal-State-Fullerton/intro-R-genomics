@@ -1,9 +1,13 @@
 
 # Overview
+This tutorial is modified to operate on the Nautilus cloud computing system. 
+We will be using the Health Informatics Notebook, which includes most of the 
+software needed to run the tutorial. If you want to run this locally, details about 
+installing the data and software you need is provided below.
 
-All of the data and most of the software used in the workshop are hosted on an
-Amazon Machine Image (AMI).
-Some additional software, detailed below, must be installed on your computer.
+On the Nautilus Health Informatics Notebook containter, you will still need to install:
+fastqc
+IGV
 
 Please follow the instructions below to prepare your computer for the workshop:
 
